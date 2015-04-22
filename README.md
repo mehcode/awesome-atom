@@ -8,3 +8,5 @@
 
 #### [Linter](https://atom.io/packages/linter)
 > Lint your code with ease in Atom.
+
+![atom-linter](https://raw.githubusercontent.com/AtomLinter/Linter/master/inline-comments.gif)
