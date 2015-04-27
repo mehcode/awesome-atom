@@ -1,6 +1,11 @@
 # Awesome Atom
 > A curated list of delightful Atom packages and resources.
 
+#### [Advanced New File](https://atom.io/packages/advanced-new-file)
+> Create multiple files and directories by typing a relative path.
+
+![](https://cloud.githubusercontent.com/assets/3289225/5792505/81f41c72-9f1b-11e4-9085-38cfb832383c.gif)
+
 #### [File Icons](https://atom.io/packages/file-icons)
 > Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
 
