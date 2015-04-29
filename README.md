@@ -1,6 +1,9 @@
 # Awesome Atom
 > A curated list of delightful Atom packages and resources.
 
+#### [Fonts](https://atom.io/packages/fonts)
+> Lots of monospace fonts.
+
 #### [Advanced New File](https://atom.io/packages/advanced-new-file)
 > Create multiple files and directories by typing a relative path.
 
