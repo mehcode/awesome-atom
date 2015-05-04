@@ -15,6 +15,8 @@ snippets for a specific language or file format.
 #### [Pigments](https://atom.io/packages/pigments)
 > A package to display colors in project and files.
 
+![](https://github.com/abe33/atom-pigments/raw/master/resources/pigments.gif?raw=true)
+
 ##### [Fonts](https://atom.io/packages/fonts)
 > Lots of monospace fonts.
 
