@@ -1,12 +1,6 @@
 # Awesome Atom
 > A curated list of delightful Atom packages and resources.
 
-<style>
-  img {
-    max-height: 400px;
-  }
-</style>
-
 #### Languages
 
 Language packages extend the editor with syntax highlighting and/or
@@ -17,6 +11,9 @@ snippets for a specific language or file format.
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
 
 #### Extensions
+
+#### [Pigments](https://atom.io/packages/pigments)
+> A package to display colors in project and files.
 
 ##### [Fonts](https://atom.io/packages/fonts)
 > Lots of monospace fonts.
