@@ -1,7 +1,7 @@
 # Awesome Atom
 > A curated list of delightful Atom packages and resources.
 
-#### Languages
+#### Syntax
 
 Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
@@ -10,7 +10,24 @@ snippets for a specific language or file format.
  - [Stylus](https://github.com/matthojo/language-stylus)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
 
-#### Extensions
+#### Lint
+
+In case the awesome nirvana that is linting has not yet been unleashed upon you:
+> lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
+
+To enable linting, you'll need the general [linter](https://atom.io/packages/linter) which acts as a provider to enable the functionality in the language-specific linters below.
+
+ - [C++](https://atom.io/packages/linter-cpplint) — cpplint
+ - [JavaScript](https://atom.io/packages/linter-eslint) — eslint
+
+![atom-linter](https://raw.githubusercontent.com/AtomLinter/Linter/master/inline-comments.gif)
+
+#### Uncategorized
+
+#### [Sort Lines](https://atom.io/packages/sort-lines)
+> Sorts your lines. Never gets tired.
+
+![](https://camo.githubusercontent.com/59de82a667ea690b778abaa5ba8a407f8659ebb3/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f323938382f313739363839312f38356536396666322d366139332d313165332d383961632d3331393237663630343539322e676966)
 
 #### [Pigments](https://atom.io/packages/pigments)
 > A package to display colors in project and files.
@@ -27,11 +44,6 @@ snippets for a specific language or file format.
 
 ##### [File Icons](https://atom.io/packages/file-icons)
 > Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
-
-##### [Linter](https://atom.io/packages/linter)
-> Lint your code with ease in Atom.
-
-![atom-linter](https://raw.githubusercontent.com/AtomLinter/Linter/master/inline-comments.gif)
 
 ##### [Pane Layout](https://atom.io/packages/pane-layout-plus)
 > Set the layout of your atom editor with cmd-alt-1, cmd-alt-2, cmd-alt-3, cmd-alt-4, cmd-alt-5.
