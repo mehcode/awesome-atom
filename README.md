@@ -64,3 +64,6 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 > [EditorConfig](http://editorconfig.org) helps developers maintain consistent coding styles between different editors
 
 ![atom-editor-config](https://f.cloud.github.com/assets/170270/2327994/dfe40cb4-a3f6-11e3-862f-894999973373.png)
+
+##### [Duplicate Selection](https://atom.io/packages/duplicate-line-or-selection)
+> Duplicates the selection if there is one, otherwise, duplicates the line.
