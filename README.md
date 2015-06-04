@@ -1,5 +1,6 @@
 # Awesome Atom
-> A curated list of delightful Atom packages and resources.
+
+A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
 ## Table of Content
 
