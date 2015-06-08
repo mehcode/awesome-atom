@@ -17,6 +17,8 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Highlight Line](#highlight-line)
  - [Editor Config](#editor-config)
  - [Duplicate Selection](#duplicate-selection)
+ - [Beautify](#beautify)
+ - [Minimap](#minimap)
 
 ## Syntax
 
@@ -26,6 +28,7 @@ snippets for a specific language or file format.
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [Stylus](https://github.com/matthojo/language-stylus)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
+ - [Stylus](https://atom.io/packages/stylus)
 
 ## Lint
 
@@ -36,6 +39,8 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 
  - [C++](https://atom.io/packages/linter-cpplint) — cpplint
  - [JavaScript](https://atom.io/packages/linter-eslint) — eslint
+ - [Python](https://atom.io/packages/linter-pylama) — pylama
+ - [Stylus](https://atom.io/packages/linter-stylint) — stylint
 
 ![atom-linter](https://raw.githubusercontent.com/AtomLinter/Linter/master/inline-comments.gif)
 
@@ -84,3 +89,12 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 
 #### [Duplicate Selection](https://atom.io/packages/duplicate-line-or-selection)
 > Duplicates the selection if there is one, otherwise, duplicates the line.
+
+#### [Beautify](https://atom.io/packages/atom-beautify)
+> [Beautify](https://github.com/einars/js-beautify)
+HTML (including [Handlebars](http://handlebarsjs.com/)),
+CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
+JavaScript, and much more in Atom.
+
+#### [Minimap](https://atom.io/packages/minimap)
+> A preview of the full source code.
