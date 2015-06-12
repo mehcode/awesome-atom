@@ -27,7 +27,6 @@ Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
 
  - [Dockerfile](https://atom.io/packages/language-docker)
- - [Stylus](https://github.com/matthojo/language-stylus)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
  - [Stylus](https://atom.io/packages/stylus)
 
