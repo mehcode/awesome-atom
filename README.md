@@ -19,6 +19,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Duplicate Selection](#duplicate-selection)
  - [Beautify](#beautify)
  - [Minimap](#minimap)
+ - [Toggle Quotes](#toggle-quotes)
 
 ## Syntax
 
@@ -98,3 +99,6 @@ JavaScript, and much more in Atom.
 
 #### [Minimap](https://atom.io/packages/minimap)
 > A preview of the full source code.
+
+#### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
+> Quickly toggle between single and double quotes
