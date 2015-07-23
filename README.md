@@ -42,7 +42,7 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [Python](https://atom.io/packages/linter-pylama) — pylama
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
 
-![atom-linter](https://raw.githubusercontent.com/AtomLinter/Linter/master/inline-comments.gif)
+![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
 
 ## Uncategorized
 
