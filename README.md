@@ -67,11 +67,6 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 #### [File Icons](https://atom.io/packages/file-icons)
 > Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
 
-#### [Highlight Line](https://atom.io/packages/highlight-line)
-> Highlights the current line in the editor; really simple.
-
-![atom-hightlight-line](https://camo.githubusercontent.com/6a26903350fa3c42ae7fe60907894196c495bb88/687474703a2f2f692e696d6775722e636f6d2f666133325774722e706e67)
-
 #### [Editor Config](https://atom.io/packages/editorconfig)
 > [EditorConfig](http://editorconfig.org) helps developers maintain consistent coding styles between different editors
 
