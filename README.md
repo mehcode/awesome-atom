@@ -67,16 +67,6 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 #### [File Icons](https://atom.io/packages/file-icons)
 > Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
 
-#### [Pane Layout](https://atom.io/packages/pane-layout-plus)
-> Set the layout of your atom editor with cmd-alt-1, cmd-alt-2, cmd-alt-3, cmd-alt-4, cmd-alt-5.
-
-![atom-pane-layout](https://camo.githubusercontent.com/b65aab362fd31c55786d13508d86e9b39e4ebbe6/68747470733a2f2f7261772e6769746875622e636f6d2f6368656d6f6973682f61746f6d2d70616e652d6c61796f75742f6d61737465722f64656d6f2e676966)
-
-#### [Pane Move](https://atom.io/packages/pane-move-plus)
-> Easily move files between panes.
-
-![](https://camo.githubusercontent.com/120c069d04ce6f0e7685144f17ed33dc3352cd26/68747470733a2f2f7261772e6769746875622e636f6d2f6368656d6f6973682f61746f6d2d70616e652d6d6f76652f6d61737465722f64656d6f2e676966)
-
 #### [Highlight Line](https://atom.io/packages/highlight-line)
 > Highlights the current line in the editor; really simple.
 
@@ -101,3 +91,11 @@ JavaScript, and much more in Atom.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes
+
+#### [Save Session](https://atom.io/packages/save-session)
+> Save Session is designed to reopen your last session in Atom. It automatically saves all file's contents in the background so you don't have to worry as much about losing an important file.
+
+![](https://i.github-camo.com/485c2a706126d69fe2ffd7cd72c7d7e6e4522a79/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7065746572736f6e322f736176652d73657373696f6e2f6d61737465722f707265766965772e676966)
+
+#### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
+> Synchronize package settings, keymap and installed packages across Atom instances.
