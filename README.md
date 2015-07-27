@@ -95,7 +95,7 @@ JavaScript, and much more in Atom.
 #### [Save Session](https://atom.io/packages/save-session)
 > Save Session is designed to reopen your last session in Atom. It automatically saves all file's contents in the background so you don't have to worry as much about losing an important file.
 
-![](https://i.github-camo.com/485c2a706126d69fe2ffd7cd72c7d7e6e4522a79/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6d7065746572736f6e322f736176652d73657373696f6e2f6d61737465722f707265766965772e676966)
+![preview](https://raw.githubusercontent.com/mpeterson2/save-session/master/preview.gif)
 
 #### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
