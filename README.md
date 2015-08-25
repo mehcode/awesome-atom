@@ -20,6 +20,8 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Beautify](#beautify)
  - [Minimap](#minimap)
  - [Toggle Quotes](#toggle-quotes)
+ - [Save Session](#save-session)
+ - [Sync Settings](#sync-settings)
 
 ## Syntax
 
