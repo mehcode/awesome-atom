@@ -11,6 +11,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Pigments](#pigments)
  - [Fonts](#fonts)
  - [Advanced New File](#advanced-new-file)
+ - [Advanced Open File](#advanced-open-file)
  - [File Icons](#file-icons)
  - [Pane Layout](#pane-layout)
  - [Pane Move](#pane-move)
@@ -63,8 +64,14 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 
 #### [Advanced New File](https://atom.io/packages/advanced-new-file)
 > Create multiple files and directories by typing a relative path.
+> This package is currently unmaintained. It's advisable to use [Advanced Open File](#advanced-open-file) instead.
 
 ![](https://cloud.githubusercontent.com/assets/3289225/5792505/81f41c72-9f1b-11e4-9085-38cfb832383c.gif)
+
+#### [Advanced Open File](https://atom.io/packages/advanced-open-file)
+> Helps Atom users to open files and folders easily. It can also creates new files and folders if they don't currently exist.
+
+![](http://osmose.github.io/advanced-open-file/demo.gif)
 
 #### [File Icons](https://atom.io/packages/file-icons)
 > Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
