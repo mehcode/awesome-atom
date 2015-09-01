@@ -64,7 +64,7 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 
 #### [Advanced New File](https://atom.io/packages/advanced-new-file)
 > Create multiple files and directories by typing a relative path.
-> Atom editor metioned that Advanced New File is no longer maintainer for now. Please switch to [Advanced Open File](#advanced-open-file)
+> Atom editor metioned that Advanced New File is no longer maintained for now. Please switch to [Advanced Open File](#advanced-open-file)
 
 ![](https://cloud.githubusercontent.com/assets/3289225/5792505/81f41c72-9f1b-11e4-9085-38cfb832383c.gif)
 
