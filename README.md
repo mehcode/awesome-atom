@@ -71,7 +71,7 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 #### [Advanced Open File](https://atom.io/packages/advanced-open-file)
 > Help Atom users to open files and folders easily. It can also create new files and folders if they don't exist.
 
-![](https://i.github-camo.com/084893541e91c8fe62632fc18f64d0b54e544da9/687474703a2f2f6f736d6f73652e6769746875622e696f2f616476616e6365642d6f70656e2d66696c652f64656d6f2e676966)
+![](http://osmose.github.io/advanced-open-file/demo.gif)
 
 #### [File Icons](https://atom.io/packages/file-icons)
 > Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
