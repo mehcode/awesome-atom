@@ -23,6 +23,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Toggle Quotes](#toggle-quotes)
  - [Save Session](#save-session)
  - [Sync Settings](#sync-settings)
+ - [iMDone](#imdone)
 
 ## Syntax
 
@@ -103,3 +104,8 @@ JavaScript, and much more in Atom.
 
 #### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
+
+#### [iMDone](https://atom.io/packages/imdone-atom)
+> A task-board for TODOs, FIXMEs, HACKs, etc in your code.
+
+![imdone-atom](https://cloud.githubusercontent.com/assets/441774/9805863/757d5532-5814-11e5-8759-4196bd92c822.gif)
