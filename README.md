@@ -6,6 +6,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 
 - [Syntax](#syntax)
 - [Lint](#lint)
+- [Themes](#themes)
 - [Uncategorized](#uncategorized)
  - [Sort lines](#sort-lines)
  - [Pigments](#pigments)
@@ -23,6 +24,8 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Toggle Quotes](#toggle-quotes)
  - [Save Session](#save-session)
  - [Sync Settings](#sync-settings)
+ - [Atom Terminal](#atom-terminal)
+ - [Jumpy](#jumpy)
 
 ## Syntax
 
@@ -32,6 +35,8 @@ snippets for a specific language or file format.
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
  - [Stylus](https://atom.io/packages/stylus)
+ - [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
+ - [Seti Syntax](https://atom.io/themes/seti-syntax)
 
 ## Lint
 
@@ -46,6 +51,14 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
 
 ![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
+
+## Themes
+Theme packages can change your atom editor's appearance.
+- [Atom Material UI](https://atom.io/themes/atom-material-ui)
+![](https://i.github-camo.com/7a7ffbcfb85b59f52ac04e886ac1537ac9efdd12/687474703a2f2f692e696d6775722e636f6d2f326a4e676b52392e706e67)
+
+- [Seti UI](https://atom.io/themes/seti-ui)
+![](https://i.github-camo.com/3e01446ebe799f5ecabfe85b0bd9f78208e65631/68747470733a2f2f6769746875622e636f6d2f6a65737365776565642f736574692d75692f7261772f6d61737465722f73637265656e73686f742e706e67)
 
 ## Uncategorized
 
@@ -103,3 +116,13 @@ JavaScript, and much more in Atom.
 
 #### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
+
+#### [Atom Terminal](https://github.com/karan/atom-terminal)
+>  Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
+
+![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
+
+#### [Jumpy](https://atom.io/packages/jumpy)
+> An Atom package that creates dynamic hotkeys to jump around files across visible panes.
+
+![](https://i.github-camo.com/97ea3a63b6b6829e56511c0c10463a40a0a3292a/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f44617669644c476f6c64626572672f6a756d70792f6d61737465722f5f696d616765732f6a756d70792e676966)
