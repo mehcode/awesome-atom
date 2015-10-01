@@ -23,12 +23,16 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Toggle Quotes](#toggle-quotes)
  - [Save Session](#save-session)
  - [Sync Settings](#sync-settings)
+ - [TernJS](#ternjs)
+ - [Emmet](#emmet)
+ - [Merge Conflicts](#merge-conflicts)
 
 ## Syntax
 
 Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
 
+ - [Angular](https://github.com/angular-ui/AngularJS-Atom) - adds syntax highlighting and snippets
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
  - [Stylus](https://atom.io/packages/stylus)
@@ -103,3 +107,12 @@ JavaScript, and much more in Atom.
 
 #### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
+
+#### [TernJS](https://github.com/tststs/atom-ternjs)
+> Javascript code intelligence for atom with tern.js and autocomplete-plus
+
+#### [Emmet](https://github.com/emmetio/emmet-atom)
+> The essential toolkit for web-developers
+
+#### [Merge Conflicts](https://github.com/smashwilson/merge-conflicts)
+> Resolve your git merge conflicts in Atom
