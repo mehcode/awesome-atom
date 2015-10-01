@@ -55,10 +55,10 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 ## Themes
 Theme packages can change your atom editor's appearance.
 - [Atom Material UI](https://atom.io/themes/atom-material-ui)
-![](https://i.github-camo.com/7a7ffbcfb85b59f52ac04e886ac1537ac9efdd12/687474703a2f2f692e696d6775722e636f6d2f326a4e676b52392e706e67)
+![](https://raw.githubusercontent.com/silvestreh/atom-material-ui/master/screenshot.png)
 
 - [Seti UI](https://atom.io/themes/seti-ui)
-![](https://i.github-camo.com/3e01446ebe799f5ecabfe85b0bd9f78208e65631/68747470733a2f2f6769746875622e636f6d2f6a65737365776565642f736574692d75692f7261772f6d61737465722f73637265656e73686f742e706e67)
+![](https://raw.githubusercontent.com/jesseweed/seti-ui/master/screenshot.png)
 
 ## Uncategorized
 
@@ -125,4 +125,4 @@ JavaScript, and much more in Atom.
 #### [Jumpy](https://atom.io/packages/jumpy)
 > An Atom package that creates dynamic hotkeys to jump around files across visible panes.
 
-![](https://i.github-camo.com/97ea3a63b6b6829e56511c0c10463a40a0a3292a/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f44617669644c476f6c64626572672f6a756d70792f6d61737465722f5f696d616765732f6a756d70792e676966)
+![](https://raw.githubusercontent.com/DavidLGoldberg/jumpy/master/_images/jumpy.gif)
