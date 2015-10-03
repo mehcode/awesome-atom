@@ -117,7 +117,7 @@ JavaScript, and much more in Atom.
 #### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
 
-#### [Atom Terminal](https://github.com/karan/atom-terminal)
+#### [Atom Terminal](https://atom.io/packages/atom-terminal)
 >  Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
 
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
