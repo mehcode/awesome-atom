@@ -98,7 +98,7 @@ JavaScript, and much more in Atom.
 > A preview of the full source code.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
-> Quickly toggle between single and double quotes
+> Quickly toggle between single and double quotes.
 
 #### [Save Session](https://atom.io/packages/save-session)
 > Save Session is designed to reopen your last session in Atom. It automatically saves all file's contents in the background so you don't have to worry as much about losing an important file.
@@ -109,10 +109,10 @@ JavaScript, and much more in Atom.
 > Synchronize package settings, keymap and installed packages across Atom instances.
 
 #### [TernJS](https://github.com/tststs/atom-ternjs)
-> Javascript code intelligence for atom with tern.js and autocomplete-plus
+> Javascript code intelligence for atom with tern.js and autocomplete-plus.
 
 #### [Emmet](https://github.com/emmetio/emmet-atom)
-> The essential toolkit for web-developers
+> Plugin which greatly improves HTML and CSS writing. Shortcuts can expand to complete set of HTML or CSS selectors.
 
 #### [Merge Conflicts](https://github.com/smashwilson/merge-conflicts)
-> Resolve your git merge conflicts in Atom
+> Resolve your git merge conflicts in Atom.
