@@ -6,6 +6,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 
 - [Syntax](#syntax)
 - [Lint](#lint)
+- [Themes](#themes)
 - [Uncategorized](#uncategorized)
  - [Sort lines](#sort-lines)
  - [Pigments](#pigments)
@@ -23,6 +24,8 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Toggle Quotes](#toggle-quotes)
  - [Save Session](#save-session)
  - [Sync Settings](#sync-settings)
+ - [Atom Terminal](#atom-terminal)
+ - [Jumpy](#jumpy)
 
 ## Syntax
 
@@ -32,6 +35,8 @@ snippets for a specific language or file format.
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
  - [Stylus](https://atom.io/packages/stylus)
+ - [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
+ - [Seti Syntax](https://atom.io/themes/seti-syntax)
 
 ## Lint
 
@@ -46,6 +51,14 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
 
 ![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
+
+## Themes
+Theme packages can change your atom editor's appearance.
+- [Atom Material UI](https://atom.io/themes/atom-material-ui)
+![](https://raw.githubusercontent.com/silvestreh/atom-material-ui/master/screenshot.png)
+
+- [Seti UI](https://atom.io/themes/seti-ui)
+![](https://raw.githubusercontent.com/jesseweed/seti-ui/master/screenshot.png)
 
 ## Uncategorized
 
@@ -103,3 +116,13 @@ JavaScript, and much more in Atom.
 
 #### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
+
+#### [Atom Terminal](https://atom.io/packages/atom-terminal)
+>  Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
+
+![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
+
+#### [Jumpy](https://atom.io/packages/jumpy)
+> An Atom package that creates dynamic hotkeys to jump around files across visible panes.
+
+![](https://raw.githubusercontent.com/DavidLGoldberg/jumpy/master/_images/jumpy.gif)
