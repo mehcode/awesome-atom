@@ -26,12 +26,16 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Sync Settings](#sync-settings)
  - [Atom Terminal](#atom-terminal)
  - [Jumpy](#jumpy)
+ - [TernJS](#ternjs)
+ - [Emmet](#emmet)
+ - [Merge Conflicts](#merge-conflicts)
 
 ## Syntax
 
 Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
 
+ - [Angular](https://atom.io/packages/angularjs) - adds syntax highlighting and snippets
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
  - [Stylus](https://atom.io/packages/stylus)
@@ -107,14 +111,14 @@ JavaScript, and much more in Atom.
 > A preview of the full source code.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
-> Quickly toggle between single and double quotes
+> Quickly toggle between single and double quotes.
 
 #### [Save Session](https://atom.io/packages/save-session)
 > Save Session is designed to reopen your last session in Atom. It automatically saves all file's contents in the background so you don't have to worry as much about losing an important file.
 
 ![preview](https://raw.githubusercontent.com/mpeterson2/save-session/master/preview.gif)
 
-#### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
+#### [Sync Settings](https://atom.io/packages/sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
 
 #### [Atom Terminal](https://atom.io/packages/atom-terminal)
@@ -126,3 +130,12 @@ JavaScript, and much more in Atom.
 > An Atom package that creates dynamic hotkeys to jump around files across visible panes.
 
 ![](https://raw.githubusercontent.com/DavidLGoldberg/jumpy/master/_images/jumpy.gif)
+
+#### [TernJS](https://atom.io/packages/atom-ternjs)
+> Javascript code intelligence for atom with tern.js and autocomplete-plus.
+
+#### [Emmet](https://atom.io/packages/emmet)
+> Plugin which greatly improves HTML and CSS writing. Shortcuts can expand to complete set of HTML or CSS selectors.
+
+#### [Merge Conflicts](https://atom.io/packages/merge-conflicts)
+> Resolve your git merge conflicts in Atom.
