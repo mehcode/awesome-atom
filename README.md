@@ -35,7 +35,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
 
- - [Angular](https://github.com/angular-ui/AngularJS-Atom) - adds syntax highlighting and snippets
+ - [Angular](https://atom.io/packages/angularjs) - adds syntax highlighting and snippets
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
  - [Stylus](https://atom.io/packages/stylus)
@@ -118,7 +118,7 @@ JavaScript, and much more in Atom.
 
 ![preview](https://raw.githubusercontent.com/mpeterson2/save-session/master/preview.gif)
 
-#### [Sync Settings](https://github.com/Hackafe/atom-sync-settings)
+#### [Sync Settings](https://atom.io/packages/sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
 
 #### [Atom Terminal](https://atom.io/packages/atom-terminal)
@@ -131,11 +131,11 @@ JavaScript, and much more in Atom.
 
 ![](https://raw.githubusercontent.com/DavidLGoldberg/jumpy/master/_images/jumpy.gif)
 
-#### [TernJS](https://github.com/tststs/atom-ternjs)
+#### [TernJS](https://atom.io/packages/atom-ternjs)
 > Javascript code intelligence for atom with tern.js and autocomplete-plus.
 
-#### [Emmet](https://github.com/emmetio/emmet-atom)
+#### [Emmet](https://atom.io/packages/emmet)
 > Plugin which greatly improves HTML and CSS writing. Shortcuts can expand to complete set of HTML or CSS selectors.
 
-#### [Merge Conflicts](https://github.com/smashwilson/merge-conflicts)
+#### [Merge Conflicts](https://atom.io/packages/merge-conflicts)
 > Resolve your git merge conflicts in Atom.
