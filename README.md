@@ -139,3 +139,6 @@ JavaScript, and much more in Atom.
 
 #### [Merge Conflicts](https://atom.io/packages/merge-conflicts)
 > Resolve your git merge conflicts in Atom.
+
+#### [Copy Paste](https://atom.io/packages/copy-paste)
+> Types in your code for your from the clipboard/buffer. Simply copy the code and hit the shortcut to watch your code being typed. Copy paste is ideal for screencasts and online courses.
