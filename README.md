@@ -29,6 +29,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [TernJS](#ternjs)
  - [Emmet](#emmet)
  - [Merge Conflicts](#merge-conflicts)
+ - [iMDone](#imdone)
 
 ## Syntax
 
@@ -139,3 +140,8 @@ JavaScript, and much more in Atom.
 
 #### [Merge Conflicts](https://atom.io/packages/merge-conflicts)
 > Resolve your git merge conflicts in Atom.
+
+#### [iMDone](https://atom.io/packages/imdone-atom)
+> A task-board for TODOs, FIXMEs, HACKs, etc in your code.
+
+![](https://cloud.githubusercontent.com/assets/441774/9805863/757d5532-5814-11e5-8759-4196bd92c822.gif)
