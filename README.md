@@ -42,8 +42,8 @@ snippets for a specific language or file format.
  - [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
-- [Seti Syntax](https://atom.io/themes/seti-syntax) 
-- [Stylus](https://atom.io/packages/stylus)
+ - [Seti Syntax](https://atom.io/themes/seti-syntax) 
+ - [Stylus](https://atom.io/packages/stylus)
 
 ## Lint
 
