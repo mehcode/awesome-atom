@@ -1,18 +1,20 @@
-# Contribution Guidelines
+# Contributing Guidelines
 
-Please ensure your pull request adheres to the following guidelines:
+To submit a package to this list, please do the following:
 
-- Read [the awesome manifesto](https://github.com/sindresorhus/awesome/blob/master/awesome.md) and ensure your list complies.
-- Search previous suggestions before making a new one, as yours may be a duplicate.
-- Make sure your list is useful before submitting. That implies it having enough content and every item a good succinct description.
-- A link back to this list from yours, so users can discover more lists, would be appreciated.
-- Make an individual pull request for each suggestion.
-- Titles should be [capitalized](http://grammar.yourdictionary.com/capitalization/rules-for-capitalization-in-titles.html).
-- Use the following format: `[List Name](link)`
-- Link additions should be added to the bottom of the relevant category.
-- New categories or improvements to the existing categorization are welcome.
-- Check your spelling and grammar.
-- Make sure your text editor is set to remove trailing whitespace.
-- The pull request and commit should have a useful title.
+1. Find a link to the package you consider is awesome. Use the link from [atom.io](https://atom.io/) instead of a link from its GitHub repository.
+2. Find the appropriate place for your package. If it belongs to a certain section, put it there. If it doesn't belong to a specific category, you should put it in the `uncategorized` section. Make sure to put your package in the alphabetical odrer.
+3. If possible, find a `.gif` animation that displays the functionality of the package.
+ 
+Submit your package in the specific form:
+
+```gfm
+#### [Title of the package](https://atom.io/packages/NAME)
+> A short description of what this package does and why is it awesome.
+
+![title of the package](link to the .gif file that explains its functionality)
+```
+
+Failure of complying to these contributing guidelines will result in your pull request being rejected.
 
 Thank you for your suggestions!
