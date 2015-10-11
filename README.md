@@ -7,6 +7,8 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 - [Syntax](#syntax)
 - [Lint](#lint)
 - [Themes](#themes)
+ - [Atom Material UI](#atom-material-ui)
+ - [Seti UI](#seti-ui)
 - [Uncategorized](#uncategorized)
  - [Sort lines](#sort-lines)
  - [Pigments](#pigments)
@@ -59,10 +61,12 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 
 ## Themes
 Theme packages can change your atom editor's appearance.
-- [Atom Material UI](https://atom.io/themes/atom-material-ui)
+
+#### [Atom Material UI](https://atom.io/themes/atom-material-ui)
+
 ![](https://raw.githubusercontent.com/silvestreh/atom-material-ui/master/screenshot.png)
 
-- [Seti UI](https://atom.io/themes/seti-ui)
+#### [Seti UI](https://atom.io/themes/seti-ui)
 ![](https://raw.githubusercontent.com/jesseweed/seti-ui/master/screenshot.png)
 
 ## Uncategorized
