@@ -38,12 +38,12 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
 
- - [Angular](https://atom.io/packages/angularjs) - adds syntax highlighting and snippets
+ - [Angular](https://atom.io/packages/angularjs) — adds syntax highlighting and snippets
+ - [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
- - [Stylus](https://atom.io/packages/stylus)
- - [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
- - [Seti Syntax](https://atom.io/themes/seti-syntax)
+- [Seti Syntax](https://atom.io/themes/seti-syntax) 
+- [Stylus](https://atom.io/packages/stylus)
 
 ## Lint
 
