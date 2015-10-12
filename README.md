@@ -148,7 +148,9 @@ JavaScript, and much more in Atom.
 #### [iMDone](https://atom.io/packages/imdone-atom)
 > A task-board for TODOs, FIXMEs, HACKs, etc in your code.
 
+![](https://cloud.githubusercontent.com/assets/441774/9805863/757d5532-5814-11e5-8759-4196bd92c822.gif)
+
 #### [Copy Paste](https://atom.io/packages/copy-paste)
 > Types in your code for your from the clipboard/buffer. Simply copy the code and hit the shortcut to watch your code being typed. Copy paste is ideal for screencasts and online courses.
 
-![](https://cloud.githubusercontent.com/assets/441774/9805863/757d5532-5814-11e5-8759-4196bd92c822.gif)
+
