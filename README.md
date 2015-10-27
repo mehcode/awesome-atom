@@ -12,6 +12,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 - [Uncategorized](#uncategorized)
  - [Sort lines](#sort-lines)
  - [Pigments](#pigments)
+ - [Color Picker](#color-picker)
  - [Fonts](#fonts)
  - [Advanced New File](#advanced-new-file)
  - [Advanced Open File](#advanced-open-file)
@@ -80,6 +81,11 @@ Theme packages can change your atom editor's appearance.
 > A package to display colors in project and files.
 
 ![](https://github.com/abe33/atom-pigments/raw/master/resources/pigments.gif?raw=true)
+
+#### [Color Picker](https://atom.io/packages/color-picker)
+> Color picker that supports HEX, HEXa, RGB, RGBa, HSL, HSLa, HSV, HSVa, VEC3, VEC4 – and is able to convert between the formats. It also inspects Sass and LESS color variables.
+
+![Color Picker in action](https://github.com/thomaslindstrom/color-picker/raw/master/preview.gif)
 
 #### [Fonts](https://atom.io/packages/fonts)
 > Lots of monospace fonts.
