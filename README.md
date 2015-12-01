@@ -65,7 +65,7 @@ Theme packages can change your atom editor's appearance.
 
 #### [Atom Material UI](https://atom.io/themes/atom-material-ui)
 
-![](https://raw.githubusercontent.com/silvestreh/atom-material-ui/master/screenshot.png)
+![](http://i.imgur.com/BbNSkFT.png)
 
 #### [Seti UI](https://atom.io/themes/seti-ui)
 ![](https://raw.githubusercontent.com/jesseweed/seti-ui/master/screenshot.png)
