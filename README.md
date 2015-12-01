@@ -33,6 +33,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Emmet](#emmet)
  - [Merge Conflicts](#merge-conflicts)
  - [iMDone](#imdone)
+ - [Rails Open Rspec](#rails-open-rspec)
 
 ## Syntax
 
@@ -43,7 +44,7 @@ snippets for a specific language or file format.
  - [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
- - [Seti Syntax](https://atom.io/themes/seti-syntax) 
+ - [Seti Syntax](https://atom.io/themes/seti-syntax)
  - [Stylus](https://atom.io/packages/stylus)
 
 ## Lint
@@ -156,7 +157,10 @@ JavaScript, and much more in Atom.
 
 ![](https://cloud.githubusercontent.com/assets/441774/9805863/757d5532-5814-11e5-8759-4196bd92c822.gif)
 
+#### [Rails Open Rspec](https://atom.io/packages/rails-open-rspec)
+> Open rspec file by current file in rails project.
+
+![](https://raw.githubusercontent.com/harada4atsushi/rails-open-rspec/master/rails-open-rspec.gif)
+
 #### [Copy Paste](https://atom.io/packages/copy-paste)
 > Types in your code for your from the clipboard/buffer. Simply copy the code and hit the shortcut to watch your code being typed. Copy paste is ideal for screencasts and online courses.
-
-
