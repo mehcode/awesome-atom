@@ -152,6 +152,8 @@ JavaScript, and much more in Atom.
 #### [Merge Conflicts](https://atom.io/packages/merge-conflicts)
 > Resolve your git merge conflicts in Atom.
 
+![](https://raw.github.com/smashwilson/merge-conflicts/master/docs/conflict-resolution.gif)
+
 #### [iMDone](https://atom.io/packages/imdone-atom)
 > A task-board for TODOs, FIXMEs, HACKs, etc in your code.
 
