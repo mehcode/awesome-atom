@@ -55,6 +55,7 @@ In case the awesome nirvana that is linting has not yet been unleashed upon you:
 To enable linting, you'll need the general [linter](https://atom.io/packages/linter) which acts as a provider to enable the functionality in the language-specific linters below.
 
  - [C++](https://atom.io/packages/linter-cpplint) — cpplint
+ - [CSS](https://atom.io/packages/linter-stylelint) - stylelint
  - [JavaScript](https://atom.io/packages/linter-eslint) — eslint
  - [Python](https://atom.io/packages/linter-pylama) — pylama
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
