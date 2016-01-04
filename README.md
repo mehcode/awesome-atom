@@ -52,9 +52,9 @@ snippets for a specific language or file format.
 In case the awesome nirvana that is linting has not yet been unleashed upon you:
 > lint was the name originally given to a particular program that flagged some suspicious and non-portable constructs (likely to be bugs) in C language source code. The term is now applied generically to tools that flag suspicious usage in software written in any computer language.
 
-To enable linting, you'll need the general [linter](https://atom.io/packages/linter) which acts as a provider to enable the functionality in the language-specific linters below.
+To enable linting, you'll need the general [linter](https://atom.io/packages/linter) which provides the interface for the provider plugins for specific languages. The full list of current plugins can be found at [atomlinter.github.io](http://atomlinter.github.io/), a few examples being:
 
- - [C++](https://atom.io/packages/linter-cpplint) — cpplint
+ - [C++](https://atom.io/packages/linter-clang) — clang
  - [JavaScript](https://atom.io/packages/linter-eslint) — eslint
  - [Python](https://atom.io/packages/linter-pylama) — pylama
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
