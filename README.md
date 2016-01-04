@@ -28,6 +28,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Save Session](#save-session)
  - [Sync Settings](#sync-settings)
  - [Atom Terminal](#atom-terminal)
+ - [Terminal-Plus](#terminal-plus)
  - [Jumpy](#jumpy)
  - [TernJS](#ternjs)
  - [Emmet](#emmet)
@@ -137,6 +138,11 @@ JavaScript, and much more in Atom.
 >  Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
 
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
+
+#### [Terminal-Plus](https://atom.io/packages/terminal-plus)
+> The terminal inside the editor complete with themes and more.
+
+![](https://raw.githubusercontent.com/jeremyramin/terminal-plus/master/resources/demo.gif)
 
 #### [Jumpy](https://atom.io/packages/jumpy)
 > An Atom package that creates dynamic hotkeys to jump around files across visible panes.
