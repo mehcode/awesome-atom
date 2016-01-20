@@ -116,7 +116,7 @@ Theme packages can change your atom editor's appearance.
 > Duplicates the selection if there is one, otherwise, duplicates the line.
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
-> [Beautify](https://github.com/einars/js-beautify)
+> [Beautify](https://github.com/beautify-web/js-beautify)
 HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
