@@ -12,6 +12,10 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Atom Material Syntax](#atom-material-syntax)
   - [Seti Syntax](#seti-syntax)
 - [Uncategorized](#uncategorized)
+ - [Sort lines](#sort-lines)
+ - [Pigments](#pigments)
+ - [Color Picker](#color-picker)
+ - [Fonts](#fonts)
  - [Advanced Open File](#advanced-open-file)
  - [Atom Reverser](#atom-reverser)
  - [Atom Terminal](#atom-terminal)
@@ -80,6 +84,8 @@ UI packages can change your atom editor's appearance.
 ![](https://github.com/jesseweed/seti-syntax/raw/master/screenshot.png)
 
 ## Uncategorized
+=======
+![](https://cloud.githubusercontent.com/assets/3289225/5792505/81f41c72-9f1b-11e4-9085-38cfb832383c.gif)
 
 #### [Advanced Open File](https://atom.io/packages/advanced-open-file)
 > Helps Atom users to open files and folders easily. It can also creates new files and folders if they don't currently exist.
