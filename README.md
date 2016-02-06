@@ -10,31 +10,32 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Atom Material UI](#atom-material-ui)
  - [Seti UI](#seti-ui)
 - [Uncategorized](#uncategorized)
- - [Sort lines](#sort-lines)
- - [Pigments](#pigments)
- - [Color Picker](#color-picker)
- - [Fonts](#fonts)
  - [Advanced New File](#advanced-new-file)
  - [Advanced Open File](#advanced-open-file)
+ - [Atom Terminal](#atom-terminal)
+ - [Beautify](#beautify)
+ - [Color Picker](#color-picker)
+ - [Copy Paste](#color-paste)
+ - [Duplicate Selection](#duplicate-selection)
+ - [Editor Config](#editor-config)
+ - [Emmet](#emmet)
  - [File Icons](#file-icons)
+ - [Fonts](#fonts)
+ - [Highlight Line](#highlight-line)
+ - [iMDone](#imdone)
+ - [Jumpy](#jumpy)
+ - [Merge Conflicts](#merge-conflicts)
+ - [Minimap](#minimap)
  - [Pane Layout](#pane-layout)
  - [Pane Move](#pane-move)
- - [Highlight Line](#highlight-line)
- - [Editor Config](#editor-config)
- - [Duplicate Selection](#duplicate-selection)
- - [Beautify](#beautify)
- - [Minimap](#minimap)
- - [Toggle Quotes](#toggle-quotes)
- - [Save Session](#save-session)
- - [Sync Settings](#sync-settings)
- - [Atom Terminal](#atom-terminal)
- - [Terminal-Plus](#terminal-plus)
- - [Jumpy](#jumpy)
- - [TernJS](#ternjs)
- - [Emmet](#emmet)
- - [Merge Conflicts](#merge-conflicts)
- - [iMDone](#imdone)
+ - [Pigments](#pigments)
  - [Rails Open Rspec](#rails-open-rspec)
+ - [Save Session](#save-session)
+ - [Sort lines](#sort-lines)
+ - [Sync Settings](#sync-settings)
+ - [Terminal-Plus](#terminal-plus)
+ - [TernJS](#ternjs)
+ - [Toggle Quotes](#toggle-quotes)
 
 ## Syntax
 
@@ -75,24 +76,6 @@ Theme packages can change your atom editor's appearance.
 
 ## Uncategorized
 
-#### [Sort Lines](https://atom.io/packages/sort-lines)
-> Sorts your lines. Never gets tired.
-
-![](https://camo.githubusercontent.com/59de82a667ea690b778abaa5ba8a407f8659ebb3/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f323938382f313739363839312f38356536396666322d366139332d313165332d383961632d3331393237663630343539322e676966)
-
-#### [Pigments](https://atom.io/packages/pigments)
-> A package to display colors in project and files.
-
-![](https://github.com/abe33/atom-pigments/raw/master/resources/pigments.gif?raw=true)
-
-#### [Color Picker](https://atom.io/packages/color-picker)
-> Color picker that supports HEX, HEXa, RGB, RGBa, HSL, HSLa, HSV, HSVa, VEC3, VEC4 – and is able to convert between the formats. It also inspects Sass and LESS color variables.
-
-![Color Picker in action](https://github.com/thomaslindstrom/color-picker/raw/master/preview.gif)
-
-#### [Fonts](https://atom.io/packages/fonts)
-> Lots of monospace fonts.
-
 #### [Advanced New File](https://atom.io/packages/advanced-new-file)
 > Create multiple files and directories by typing a relative path.
 > This package is currently unmaintained. It's advisable to use [Advanced Open File](#advanced-open-file) instead.
@@ -104,16 +87,10 @@ Theme packages can change your atom editor's appearance.
 
 ![](http://osmose.github.io/advanced-open-file/demo.gif)
 
-#### [File Icons](https://atom.io/packages/file-icons)
-> Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
+#### [Atom Terminal](https://atom.io/packages/atom-terminal)
+>  Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
 
-#### [Editor Config](https://atom.io/packages/editorconfig)
-> [EditorConfig](http://editorconfig.org) helps developers maintain consistent coding styles between different editors
-
-![atom-editor-config](https://f.cloud.github.com/assets/170270/2327994/dfe40cb4-a3f6-11e3-862f-894999973373.png)
-
-#### [Duplicate Selection](https://atom.io/packages/duplicate-line-or-selection)
-> Duplicates the selection if there is one, otherwise, duplicates the line.
+![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
 > [Beautify](https://github.com/beautify-web/js-beautify)
@@ -121,55 +98,79 @@ HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
 
-#### [Minimap](https://atom.io/packages/minimap)
-> A preview of the full source code.
+#### [Color Picker](https://atom.io/packages/color-picker)
+> Color picker that supports HEX, HEXa, RGB, RGBa, HSL, HSLa, HSV, HSVa, VEC3, VEC4 – and is able to convert between the formats. It also inspects Sass and LESS color variables.
 
-#### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
-> Quickly toggle between single and double quotes.
+![Color Picker in action](https://github.com/thomaslindstrom/color-picker/raw/master/preview.gif)
 
-#### [Save Session](https://atom.io/packages/save-session)
-> Save Session is designed to reopen your last session in Atom. It automatically saves all file's contents in the background so you don't have to worry as much about losing an important file.
+#### [Copy Paste](https://atom.io/packages/copy-paste)
+> Types in your code for your from the clipboard/buffer. Simply copy the code and hit the shortcut to watch your code being typed. Copy paste is ideal for screencasts and online courses.
 
-![preview](https://raw.githubusercontent.com/mpeterson2/save-session/master/preview.gif)
+#### [Duplicate Selection](https://atom.io/packages/duplicate-line-or-selection)
+> Duplicates the selection if there is one, otherwise, duplicates the line.
 
-#### [Sync Settings](https://atom.io/packages/sync-settings)
-> Synchronize package settings, keymap and installed packages across Atom instances.
+#### [Editor Config](https://atom.io/packages/editorconfig)
+> [EditorConfig](http://editorconfig.org) helps developers maintain consistent coding styles between different editors
 
-#### [Atom Terminal](https://atom.io/packages/atom-terminal)
->  Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
-
-![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
-
-#### [Terminal-Plus](https://atom.io/packages/terminal-plus)
-> The terminal inside the editor complete with themes and more.
-
-![](https://raw.githubusercontent.com/jeremyramin/terminal-plus/master/resources/demo.gif)
-
-#### [Jumpy](https://atom.io/packages/jumpy)
-> An Atom package that creates dynamic hotkeys to jump around files across visible panes.
-
-![](https://raw.githubusercontent.com/DavidLGoldberg/jumpy/master/_images/jumpy.gif)
-
-#### [TernJS](https://atom.io/packages/atom-ternjs)
-> Javascript code intelligence for atom with tern.js and autocomplete-plus.
+![atom-editor-config](https://f.cloud.github.com/assets/170270/2327994/dfe40cb4-a3f6-11e3-862f-894999973373.png)
 
 #### [Emmet](https://atom.io/packages/emmet)
 > Plugin which greatly improves HTML and CSS writing. Shortcuts can expand to complete set of HTML or CSS selectors.
 
-#### [Merge Conflicts](https://atom.io/packages/merge-conflicts)
-> Resolve your git merge conflicts in Atom.
+#### [File Icons](https://atom.io/packages/file-icons)
+> Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
 
-![](https://raw.github.com/smashwilson/merge-conflicts/master/docs/conflict-resolution.gif)
+#### [Fonts](https://atom.io/packages/fonts)
+> Lots of monospace fonts.
 
 #### [iMDone](https://atom.io/packages/imdone-atom)
 > A task-board for TODOs, FIXMEs, HACKs, etc in your code.
 
 ![](https://cloud.githubusercontent.com/assets/441774/9805863/757d5532-5814-11e5-8759-4196bd92c822.gif)
 
+#### [Jumpy](https://atom.io/packages/jumpy)
+> An Atom package that creates dynamic hotkeys to jump around files across visible panes.
+
+![](https://raw.githubusercontent.com/DavidLGoldberg/jumpy/master/_images/jumpy.gif)
+
+#### [Merge Conflicts](https://atom.io/packages/merge-conflicts)
+> Resolve your git merge conflicts in Atom.
+
+![](https://raw.github.com/smashwilson/merge-conflicts/master/docs/conflict-resolution.gif)
+
+#### [Minimap](https://atom.io/packages/minimap)
+> A preview of the full source code.
+
+#### [Pigments](https://atom.io/packages/pigments)
+> A package to display colors in project and files.
+
+![](https://github.com/abe33/atom-pigments/raw/master/resources/pigments.gif?raw=true)
+
 #### [Rails Open Rspec](https://atom.io/packages/rails-open-rspec)
 > Open rspec file by current file in rails project.
 
 ![](https://raw.githubusercontent.com/harada4atsushi/rails-open-rspec/master/rails-open-rspec.gif)
 
-#### [Copy Paste](https://atom.io/packages/copy-paste)
-> Types in your code for your from the clipboard/buffer. Simply copy the code and hit the shortcut to watch your code being typed. Copy paste is ideal for screencasts and online courses.
+#### [Save Session](https://atom.io/packages/save-session)
+> Save Session is designed to reopen your last session in Atom. It automatically saves all file's contents in the background so you don't have to worry as much about losing an important file.
+
+![preview](https://raw.githubusercontent.com/mpeterson2/save-session/master/preview.gif)
+
+#### [Sort Lines](https://atom.io/packages/sort-lines)
+> Sorts your lines. Never gets tired.
+
+![](https://camo.githubusercontent.com/59de82a667ea690b778abaa5ba8a407f8659ebb3/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f323938382f313739363839312f38356536396666322d366139332d313165332d383961632d3331393237663630343539322e676966)
+
+#### [Sync Settings](https://atom.io/packages/sync-settings)
+> Synchronize package settings, keymap and installed packages across Atom instances.
+
+#### [Terminal-Plus](https://atom.io/packages/terminal-plus)
+> The terminal inside the editor complete with themes and more.
+
+![](https://raw.githubusercontent.com/jeremyramin/terminal-plus/master/resources/demo.gif)
+
+#### [TernJS](https://atom.io/packages/atom-ternjs)
+> Javascript code intelligence for atom with tern.js and autocomplete-plus.
+
+#### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
+> Quickly toggle between single and double quotes.
