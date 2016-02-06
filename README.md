@@ -16,7 +16,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Atom Terminal](#atom-terminal)
  - [Beautify](#beautify)
  - [Color Picker](#color-picker)
- - [Copy Paste](#color-paste)
+ - [Copy Paste](#copy-paste)
  - [Duplicate Selection](#duplicate-selection)
  - [Editor Config](#editor-config)
  - [Emmet](#emmet)
