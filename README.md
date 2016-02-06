@@ -46,7 +46,7 @@ snippets for a specific language or file format.
 
  - [Angular](https://atom.io/packages/angularjs)
  - [Dockerfile](https://atom.io/packages/language-docker)
- - [React](https://atom.io/packages/react) reformatting
+ - [React](https://atom.io/packages/react)
  - [Stylus](https://atom.io/packages/stylus)
 
 ## Lint
