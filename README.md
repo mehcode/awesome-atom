@@ -30,7 +30,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Pane Move](#pane-move)
  - [Pigments](#pigments)
  - [Rails Open Rspec](#rails-open-rspec)
- - [Save Session](#save-session)
  - [Sort lines](#sort-lines)
  - [Sync Settings](#sync-settings)
  - [Terminal-Plus](#terminal-plus)
@@ -151,11 +150,6 @@ JavaScript, and much more in Atom.
 > Open rspec file by current file in rails project.
 
 ![](https://raw.githubusercontent.com/harada4atsushi/rails-open-rspec/master/rails-open-rspec.gif)
-
-#### [Save Session](https://atom.io/packages/save-session)
-> Save Session is designed to reopen your last session in Atom. It automatically saves all file's contents in the background so you don't have to worry as much about losing an important file.
-
-![preview](https://raw.githubusercontent.com/mpeterson2/save-session/master/preview.gif)
 
 #### [Sort Lines](https://atom.io/packages/sort-lines)
 > Sorts your lines. Never gets tired.
