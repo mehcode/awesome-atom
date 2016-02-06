@@ -42,11 +42,9 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
 
- - [Angular](https://atom.io/packages/angularjs) — adds syntax highlighting and snippets
- - [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
+ - [Angular](https://atom.io/packages/angularjs)
  - [Dockerfile](https://atom.io/packages/language-docker)
- - [React](https://atom.io/packages/react) — React.js (JSX) language support, indentation, snippets, auto completion, reformatting
- - [Seti Syntax](https://atom.io/themes/seti-syntax)
+ - [React](https://atom.io/packages/react) reformatting
  - [Stylus](https://atom.io/packages/stylus)
 
 ## Lint
@@ -65,14 +63,23 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
 ![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
 
 ## Themes
-Theme packages can change your atom editor's appearance.
+
+### UI
+UI packages can change your atom editor's appearance.
 
 #### [Atom Material UI](https://atom.io/themes/atom-material-ui)
-
 ![](http://i.imgur.com/BbNSkFT.png)
 
 #### [Seti UI](https://atom.io/themes/seti-ui)
 ![](https://raw.githubusercontent.com/jesseweed/seti-ui/master/screenshot.png)
+
+### Syntax
+
+#### [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
+![](https://cloud.githubusercontent.com/assets/499192/11417210/2ff7e544-9415-11e5-8c82-4ba4609eeb7e.png)
+
+#### [Seti Syntax](https://atom.io/themes/seti-syntax)
+![](https://github.com/jesseweed/seti-syntax/raw/master/screenshot.png)
 
 ## Uncategorized
 
