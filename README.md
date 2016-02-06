@@ -13,8 +13,8 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Seti Syntax](#seti-syntax)
 - [Uncategorized](#uncategorized)
  - [Advanced Open File](#advanced-open-file)
- - [Atom Terminal](#atom-terminal)
  - [Atom Reverser](#atom-reverser)
+ - [Atom Terminal](#atom-terminal)
  - [Beautify](#beautify)
  - [Color Picker](#color-picker)
  - [Copy Paste](#copy-paste)
@@ -86,15 +86,15 @@ UI packages can change your atom editor's appearance.
 
 ![](http://osmose.github.io/advanced-open-file/demo.gif)
 
-#### [Atom Terminal](https://atom.io/packages/atom-terminal)
-> Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
-
-![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
-
 #### [Atom Reverser](https://atom.io/packages/atom-reverser)
 > Reverses your current selections; e.g. `false` to `true`
 
 ![Atom Reverser in action](https://i.imgur.com/YawGVsN.gif)
+
+#### [Atom Terminal](https://atom.io/packages/atom-terminal)
+> Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
+
+![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
 > [Beautify](https://github.com/beautify-web/js-beautify)
