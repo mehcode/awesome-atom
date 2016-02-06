@@ -12,7 +12,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Atom Material Syntax](#atom-material-syntax)
   - [Seti Syntax](#seti-syntax)
 - [Uncategorized](#uncategorized)
- - [Advanced New File](#advanced-new-file)
  - [Advanced Open File](#advanced-open-file)
  - [Atom Terminal](#atom-terminal)
  - [Beautify](#beautify)
@@ -84,12 +83,6 @@ UI packages can change your atom editor's appearance.
 ![](https://github.com/jesseweed/seti-syntax/raw/master/screenshot.png)
 
 ## Uncategorized
-
-#### [Advanced New File](https://atom.io/packages/advanced-new-file)
-> Create multiple files and directories by typing a relative path.
-> This package is currently unmaintained. It's advisable to use [Advanced Open File](#advanced-open-file) instead.
-
-![](https://cloud.githubusercontent.com/assets/3289225/5792505/81f41c72-9f1b-11e4-9085-38cfb832383c.gif)
 
 #### [Advanced Open File](https://atom.io/packages/advanced-open-file)
 > Helps Atom users to open files and folders easily. It can also creates new files and folders if they don't currently exist.
