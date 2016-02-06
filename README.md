@@ -22,7 +22,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Emmet](#emmet)
  - [File Icons](#file-icons)
  - [Fonts](#fonts)
- - [Highlight Line](#highlight-line)
  - [iMDone](#imdone)
  - [Jumpy](#jumpy)
  - [Merge Conflicts](#merge-conflicts)
