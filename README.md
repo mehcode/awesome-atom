@@ -26,8 +26,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Jumpy](#jumpy)
  - [Merge Conflicts](#merge-conflicts)
  - [Minimap](#minimap)
- - [Pane Layout](#pane-layout)
- - [Pane Move](#pane-move)
  - [Pigments](#pigments)
  - [Rails Open Rspec](#rails-open-rspec)
  - [Sort lines](#sort-lines)
