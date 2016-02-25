@@ -28,6 +28,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Merge Conflicts](#merge-conflicts)
  - [Minimap](#minimap)
  - [Pigments](#pigments)
+ - [Project Plus](#project-plus)
  - [Rails Open Rspec](#rails-open-rspec)
  - [Sort lines](#sort-lines)
  - [Sync Settings](#sync-settings)
@@ -149,6 +150,11 @@ JavaScript, and much more in Atom.
 > A package to display colors in project and files.
 
 ![](https://github.com/abe33/atom-pigments/raw/master/resources/pigments.gif?raw=true)
+
+#### [Project Plus](https://atom.io/packages/project-plus)
+> Simply awesome project management in Atom.
+
+![](https://raw.githubusercontent.com/mehcode/atom-project-plus/master/project-plus.gif)
 
 #### [Rails Open Rspec](https://atom.io/packages/rails-open-rspec)
 > Open rspec file by current file in rails project.
