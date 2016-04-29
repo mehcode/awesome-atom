@@ -16,6 +16,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Atom Reverser](#atom-reverser)
  - [Atom Terminal](#atom-terminal)
  - [Beautify](#beautify)
+ - [Chrome Color Picker](#chrome-color-picker)
  - [Color Picker](#color-picker)
  - [Copy Paste](#copy-paste)
  - [Duplicate Selection](#duplicate-selection)
@@ -102,6 +103,11 @@ UI packages can change your atom editor's appearance.
 HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
+
+#### [Chrome Color Picker](https://atom.io/packages/chrome-color-picker)
+> A color picker inspired by chrome's dev tools color picker (or [spectrum](https://github.com/bgrins/spectrum) color picker)
+
+![Demo Image](https://raw.githubusercontent.com/puranjayjain/chrome-color-picker/master/demo.gif)
 
 #### [Color Picker](https://atom.io/packages/color-picker)
 > Color picker that supports HEX, HEXa, RGB, RGBa, HSL, HSLa, HSV, HSVa, VEC3, VEC4 – and is able to convert between the formats. It also inspects Sass and LESS color variables.
