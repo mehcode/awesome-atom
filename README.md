@@ -1,4 +1,4 @@
-# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Javascript](https://badges.frapsoft.com/javascript/code/javascript.png?v=100)](https://github.com/ellerbrock/javascript-badges/)
 
 A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
@@ -63,6 +63,14 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [TypeScript](https://atom.io/packages/linter-tslint) - tslint
 
 ![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
+
+
+## IDE Extension
+
+####[Nuclide](https://nuclide.io/) 
+An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook](https://github.com/facebook/nuclide).
+
+![](https://nuclide.io/static/images/docs/promo-hack.png)
 
 ## Themes
 
