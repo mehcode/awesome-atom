@@ -187,3 +187,6 @@ JavaScript, and much more in Atom.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes.
+
+### [multi-cursor](https://atom.io/packages/multi-cursor)
+> Atom package to expand your current cursor.
