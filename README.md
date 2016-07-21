@@ -83,6 +83,9 @@ UI packages can change your atom editor's appearance.
 #### [Seti Syntax](https://atom.io/themes/seti-syntax)
 ![](https://github.com/jesseweed/seti-syntax/raw/master/screenshot.png)
 
+#### [Gruvbox Syntax](https://github.com/caleb/gruvbox-syntax-atom)
+![](https://raw.githubusercontent.com/caleb/gruvbox-syntax-atom/master/gruvbox.png)
+
 ## Uncategorized
 
 #### [Advanced Open File](https://atom.io/packages/advanced-open-file)
