@@ -84,7 +84,7 @@ UI packages can change your atom editor's appearance.
 ![](https://github.com/jesseweed/seti-syntax/raw/master/screenshot.png)
 
 #### [Gruvbox Syntax](https://github.com/Briles/gruvbox-atom)
-![](https://camo.githubusercontent.com/92554a760156d2129c121c808f684ccf535af027/687474703a2f2f692e696d6775722e636f6d2f46375a435851792e706e67)
+![](https://camo.githubusercontent.com/29712f507bfe539283aeb3e650065e08a8c132eb/687474703a2f2f692e696d6775722e636f6d2f6861426b5362332e706e67)
 
 ## Uncategorized
 
