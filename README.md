@@ -62,7 +62,18 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
  - [TypeScript](https://atom.io/packages/linter-tslint) - tslint
 
-![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
+## Build
+
+To enable building, you'll need the general [build](https://atom.io/packages/build) which provides the interface for the provider plugins for specific languages and adds integrates with [lint](#lint). The full list of current plugins can be found at [atombuild.github.io](http://atombuild.github.io/), a few examples being:
+
+ - [AppleScript](https://atom.io/packages/build-applescript) — oscompile
+ - [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
+ - [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
+ - [GNU Make](https://github.com/AtomBuild/atom-build-make) - make
+ - [Sass](https://atom.io/packages/build-sass) — sass
+ - [TypeScript](https://atom.io/packages/build-tsc) - tsc
+ 
+ ![atom-build](https://camo.githubusercontent.com/ca10be645c7a2024dddc550466e67d692fb411ed/68747470733a2f2f6e6f7365676c69642e6769746875622e696f2f746172676574732d6d616b652e676966)
 
 ## Themes
 
