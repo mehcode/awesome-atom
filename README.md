@@ -59,6 +59,7 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [CSS](https://atom.io/packages/linter-stylelint) — stylelint
  - [JavaScript](https://atom.io/packages/linter-eslint) — eslint
  - [Python](https://atom.io/packages/linter-pylama) — pylama
+ - [SASS](https://atom.io/packages/linter-sass-lint) — sass-lint
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
  - [TypeScript](https://atom.io/packages/linter-tslint) - tslint
 
