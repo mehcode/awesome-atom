@@ -31,6 +31,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Project Plus](#project-plus)
  - [Code Peek](#code-peek)
  - [Rails Open Rspec](#rails-open-rspec)
+ - [Ruby Test Switcher](#ruby-test-switcher)
  - [Sort lines](#sort-lines)
  - [Sync Settings](#sync-settings)
  - [Terminal-Plus](#terminal-plus)
@@ -169,6 +170,9 @@ JavaScript, and much more in Atom.
 > Open rspec file by current file in rails project.
 
 ![](https://raw.githubusercontent.com/harada4atsushi/rails-open-rspec/master/rails-open-rspec.gif)
+
+#### [Ruby Test Switcher](https://atom.io/packages/ruby-test-switcher)
+> Switch between Ruby source code and test files with a keystroke. It supports RSpec, minitest and test-unit, both in Rails and non-Rails projects.
 
 #### [Sort Lines](https://atom.io/packages/sort-lines)
 > Sorts your lines. Never gets tired.
