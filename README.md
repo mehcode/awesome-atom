@@ -16,6 +16,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Atom Reverser](#atom-reverser)
  - [Atom Terminal](#atom-terminal)
  - [Beautify](#beautify)
+ - [Code Peek](#code-peek)
  - [Color Picker](#color-picker)
  - [Copy Paste](#copy-paste)
  - [Duplicate Selection](#duplicate-selection)
@@ -29,7 +30,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Minimap](#minimap)
  - [Pigments](#pigments)
  - [Project Plus](#project-plus)
- - [Code Peek](#code-peek)
  - [Rails Open Rspec](#rails-open-rspec)
  - [Sort lines](#sort-lines)
  - [Sync Settings](#sync-settings)
@@ -107,6 +107,11 @@ HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
 
+#### [Code Peek](https://atom.io/packages/code-peek)
+> Quickly peek and edit functions in separate files from the context of your current editor.
+
+![Code Peek Demo](https://github.com/DFreds/code-peek-atom/blob/master/code-peek.gif?raw=true)
+
 #### [Color Picker](https://atom.io/packages/color-picker)
 > Color picker that supports HEX, HEXa, RGB, RGBa, HSL, HSLa, HSV, HSVa, VEC3, VEC4 – and is able to convert between the formats. It also inspects Sass and LESS color variables.
 
@@ -159,11 +164,6 @@ JavaScript, and much more in Atom.
 > Simply awesome project management in Atom.
 
 ![](https://raw.githubusercontent.com/mehcode/atom-project-plus/master/project-plus.gif)
-
-#### [Code Peek](https://atom.io/packages/code-peek)
-> Quickly peek and edit functions in separate files from the context of your current editor.
-
-![Code Peek Demo](https://github.com/DFreds/code-peek-atom/blob/master/code-peek.gif?raw=true)
 
 #### [Rails Open Rspec](https://atom.io/packages/rails-open-rspec)
 > Open rspec file by current file in rails project.
