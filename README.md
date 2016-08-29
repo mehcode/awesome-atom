@@ -9,11 +9,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 - [Build](#build)
 - [Extensions](#extensions)
   - [Nuclide](#nuclide)
-- [Themes](#themes)
-  - [Atom Material UI](#atom-material-ui)
-  - [Seti UI](#seti-ui)
-  - [Atom Material Syntax](#atom-material-syntax)
-  - [Seti Syntax](#seti-syntax)
+- [Themes](http://enrmarc.github.io/atom-theme-gallery/)
 - [Uncategorized](#uncategorized)
  - [Advanced Open File](#advanced-open-file)
  - [Atom Reverser](#atom-reverser)
@@ -87,25 +83,6 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
-
-## Themes
-
-### UI
-UI packages can change your atom editor's appearance.
-
-#### [Atom Material UI](https://atom.io/themes/atom-material-ui)
-![](http://i.imgur.com/BbNSkFT.png)
-
-#### [Seti UI](https://atom.io/themes/seti-ui)
-![](https://raw.githubusercontent.com/jesseweed/seti-ui/master/screenshot.png)
-
-### Syntax
-
-#### [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
-![](https://cloud.githubusercontent.com/assets/499192/11417210/2ff7e544-9415-11e5-8c82-4ba4609eeb7e.png)
-
-#### [Seti Syntax](https://atom.io/themes/seti-syntax)
-![](https://github.com/jesseweed/seti-syntax/raw/master/screenshot.png)
 
 ## Uncategorized
 
