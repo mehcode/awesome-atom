@@ -1,4 +1,4 @@
-# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Atom [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![Javascript](https://badges.frapsoft.com/javascript/code/javascript.png?v=100)](https://github.com/ellerbrock/javascript-badges/)
 
 A curated list of delightful Atom packages and resources. For more awesomeness, check out [awesome](https://github.com/sindresorhus/awesome).
 
@@ -77,6 +77,14 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
  - [TypeScript](https://atom.io/packages/build-tsc) - tsc
  
  ![atom-build](https://camo.githubusercontent.com/ca10be645c7a2024dddc550466e67d692fb411ed/68747470733a2f2f6e6f7365676c69642e6769746875622e696f2f746172676574732d6d616b652e676966)
+
+
+## IDE Extension
+
+####[Nuclide](https://nuclide.io/) 
+An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook](https://github.com/facebook/nuclide).
+
+![](https://nuclide.io/static/images/docs/promo-hack.png)
 
 ## Themes
 
