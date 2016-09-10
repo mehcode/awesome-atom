@@ -40,7 +40,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 		- [[TernJS](https://atom.io/packages/atom-ternjs)](#ternjshttpsatomiopackagesatom-ternjs)
 	- [Ruby/Rails](#rubyrails)
 		- [[Rails Open Rspec](https://atom.io/packages/rails-open-rspec)](#rails-open-rspechttpsatomiopackagesrails-open-rspec)
-	- [Elixir](#elixir)
 - [Version Control](#version-control)
 	- [[Merge Conflicts](https://atom.io/packages/merge-conflicts)](#merge-conflictshttpsatomiopackagesmerge-conflicts)
 - [Terminal / OS Integration](#terminal-os-integration)
@@ -77,7 +76,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 ### [Pigments](https://atom.io/packages/pigments)
 > A package to display colors in project and files.
 
-![](https://github.com/abe33/atom-pigments/raw/master/resources/pigments.gif?raw=true)
+![Pigments Demo](demos/atom-pigments.gif)  
 
 ### [Project Plus](https://atom.io/packages/project-plus)
 > Simply awesome project management in Atom.
@@ -98,7 +97,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 ### [Atom Reverser](https://atom.io/packages/atom-reverser)
 > Reverses your current selections; e.g. `false` to `true`
 
-![Atom Reverser in action](https://i.imgur.com/YawGVsN.gif)
+![Atom Reverser in action](demos/atom-reverser.gif)
 
 ### [Beautify](https://atom.io/packages/atom-beautify)
 > [Beautify](https://github.com/beautify-web/js-beautify)
@@ -203,9 +202,6 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 > Open rspec file by current file in rails project.
 
 ![](https://raw.githubusercontent.com/harada4atsushi/rails-open-rspec/master/rails-open-rspec.gif)
-
-
-### Elixir
 
 ## Version Control
 
