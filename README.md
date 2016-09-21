@@ -23,6 +23,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Emmet](#emmet)
  - [File Icons](#file-icons)
  - [Fonts](#fonts)
+ - [html-to-css](#html-to-css)
  - [iMDone](#imdone)
  - [Jumpy](#jumpy)
  - [Merge Conflicts](#merge-conflicts)
@@ -136,6 +137,11 @@ JavaScript, and much more in Atom.
 
 #### [Fonts](https://atom.io/packages/fonts)
 > Lots of monospace fonts.
+
+#### [html-to-css](https://atom.io/packages/html-to-css)
+> Generates CSS boilerplate based on the selected HTML. Supports CSS, SCSS, Sass, LESS, BEM, JSX.
+
+![html-to-css](https://camo.githubusercontent.com/b164c4b7b244006a7bcf7442d8c4b0812e4edcd0/687474703a2f2f64726163756c2e6b696c6c2e706c2f2537456172642f68746d6c746f6373732e676966)
 
 #### [iMDone](https://atom.io/packages/imdone-atom)
 > A task-board for TODOs, FIXMEs, HACKs, etc in your code.
