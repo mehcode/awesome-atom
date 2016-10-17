@@ -61,7 +61,7 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [SASS](https://atom.io/packages/linter-sass-lint) — sass-lint
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
  - [TypeScript](https://atom.io/packages/linter-tslint) - tslint
- 
+
  ![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
 
 ## Build
@@ -74,12 +74,12 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
  - [GNU Make](https://github.com/AtomBuild/atom-build-make) - make
  - [Sass](https://atom.io/packages/build-sass) — sass
  - [TypeScript](https://atom.io/packages/build-tsc) - tsc
- 
+
  ![atom-build](https://camo.githubusercontent.com/ca10be645c7a2024dddc550466e67d692fb411ed/68747470733a2f2f6e6f7365676c69642e6769746875622e696f2f746172676574732d6d616b652e676966)
 
 ## Extensions
 
-####[Nuclide](https://nuclide.io/) 
+####[Nuclide](https://nuclide.io/)
 An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
@@ -188,3 +188,6 @@ JavaScript, and much more in Atom.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes.
+
+#### [Tree View Search Bar](https://atom.io/packages/tree-view-search-bar)
+> Quick look in tree view.
