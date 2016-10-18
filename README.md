@@ -29,7 +29,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Minimap](#minimap)
  - [Pigments](#pigments)
  - [Project Plus](#project-plus)
- - [Rails Open Rspec](#rails-open-rspec)
+ - [Ruby Test Switcher](#ruby-test-switcher)
  - [Sort lines](#sort-lines)
  - [Sync Settings](#sync-settings)
  - [Terminal-Plus](#terminal-plus)
@@ -61,7 +61,7 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [SASS](https://atom.io/packages/linter-sass-lint) — sass-lint
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
  - [TypeScript](https://atom.io/packages/linter-tslint) - tslint
- 
+
  ![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
 
 ## Build
@@ -74,12 +74,12 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
  - [GNU Make](https://github.com/AtomBuild/atom-build-make) - make
  - [Sass](https://atom.io/packages/build-sass) — sass
  - [TypeScript](https://atom.io/packages/build-tsc) - tsc
- 
+
  ![atom-build](https://camo.githubusercontent.com/ca10be645c7a2024dddc550466e67d692fb411ed/68747470733a2f2f6e6f7365676c69642e6769746875622e696f2f746172676574732d6d616b652e676966)
 
 ## Extensions
 
-####[Nuclide](https://nuclide.io/) 
+####[Nuclide](https://nuclide.io/)
 An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
@@ -165,10 +165,8 @@ JavaScript, and much more in Atom.
 
 ![](https://raw.githubusercontent.com/mehcode/atom-project-plus/master/project-plus.gif)
 
-#### [Rails Open Rspec](https://atom.io/packages/rails-open-rspec)
-> Open rspec file by current file in rails project.
-
-![](https://raw.githubusercontent.com/harada4atsushi/rails-open-rspec/master/rails-open-rspec.gif)
+#### [Ruby Test Switcher](https://atom.io/packages/ruby-test-switcher)
+> Switch between Ruby source code and test files with a keystroke. It supports RSpec, minitest and test-unit, both in Rails and non-Rails projects.
 
 #### [Sort Lines](https://atom.io/packages/sort-lines)
 > Sorts your lines. Never gets tired.
