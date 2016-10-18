@@ -6,16 +6,16 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
 
 - [Syntax](#syntax)
 - [Lint](#lint)
-- [Themes](#themes)
-  - [Atom Material UI](#atom-material-ui)
-  - [Seti UI](#seti-ui)
-  - [Atom Material Syntax](#atom-material-syntax)
-  - [Seti Syntax](#seti-syntax)
+- [Build](#build)
+- [Extensions](#extensions)
+  - [Nuclide](#nuclide)
+- [Themes](http://enrmarc.github.io/atom-theme-gallery/)
 - [Uncategorized](#uncategorized)
  - [Advanced Open File](#advanced-open-file)
  - [Atom Reverser](#atom-reverser)
  - [Atom Terminal](#atom-terminal)
  - [Beautify](#beautify)
+ - [Code Peek](#code-peek)
  - [Color Picker](#color-picker)
  - [Copy Paste](#copy-paste)
  - [Duplicate Selection](#duplicate-selection)
@@ -29,7 +29,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Minimap](#minimap)
  - [Pigments](#pigments)
  - [Project Plus](#project-plus)
- - [Code Peek](#code-peek)
  - [Ruby Test Switcher](#ruby-test-switcher)
  - [Sort lines](#sort-lines)
  - [Sync Settings](#sync-settings)
@@ -63,26 +62,27 @@ To enable linting, you'll need the general [linter](https://atom.io/packages/lin
  - [Stylus](https://atom.io/packages/linter-stylint) — stylint
  - [TypeScript](https://atom.io/packages/linter-tslint) - tslint
 
-![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
+ ![atom-linter](https://camo.githubusercontent.com/70b6e697c9d793642414b4ea6d08dbb9678877b3/687474703a2f2f672e7265636f726469742e636f2f313352666d6972507a322e676966)
 
-## Themes
+## Build
 
-### UI
-UI packages can change your atom editor's appearance.
+To enable building, you'll need the general [build](https://atom.io/packages/build) which provides the interface for the provider plugins for specific languages and adds integrates with [lint](#lint). The full list of current plugins can be found at [atombuild.github.io](http://atombuild.github.io/), a few examples being:
 
-#### [Atom Material UI](https://atom.io/themes/atom-material-ui)
-![](http://i.imgur.com/BbNSkFT.png)
+ - [AppleScript](https://atom.io/packages/build-applescript) — oscompile
+ - [C/C++/Objective C](https://atom.io/packages/build-xcodebuild) — xcodebuild
+ - [CoffeeScript](https://atom.io/packages/build-coffee) - coffee
+ - [GNU Make](https://github.com/AtomBuild/atom-build-make) - make
+ - [Sass](https://atom.io/packages/build-sass) — sass
+ - [TypeScript](https://atom.io/packages/build-tsc) - tsc
 
-#### [Seti UI](https://atom.io/themes/seti-ui)
-![](https://raw.githubusercontent.com/jesseweed/seti-ui/master/screenshot.png)
+ ![atom-build](https://camo.githubusercontent.com/ca10be645c7a2024dddc550466e67d692fb411ed/68747470733a2f2f6e6f7365676c69642e6769746875622e696f2f746172676574732d6d616b652e676966)
 
-### Syntax
+## Extensions
 
-#### [Atom Material Syntax](https://atom.io/themes/atom-material-syntax)
-![](https://cloud.githubusercontent.com/assets/499192/11417210/2ff7e544-9415-11e5-8c82-4ba4609eeb7e.png)
+####[Nuclide](https://nuclide.io/)
+An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook](https://github.com/facebook/nuclide).
 
-#### [Seti Syntax](https://atom.io/themes/seti-syntax)
-![](https://github.com/jesseweed/seti-syntax/raw/master/screenshot.png)
+![](https://nuclide.io/static/images/docs/promo-hack.png)
 
 ## Uncategorized
 
@@ -106,6 +106,11 @@ UI packages can change your atom editor's appearance.
 HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
+
+#### [Code Peek](https://atom.io/packages/code-peek)
+> Quickly peek and edit functions in separate files from the context of your current editor.
+
+![Code Peek Demo](https://github.com/DFreds/code-peek-atom/blob/master/code-peek.gif?raw=true)
 
 #### [Color Picker](https://atom.io/packages/color-picker)
 > Color picker that supports HEX, HEXa, RGB, RGBa, HSL, HSLa, HSV, HSVa, VEC3, VEC4 – and is able to convert between the formats. It also inspects Sass and LESS color variables.
@@ -159,11 +164,6 @@ JavaScript, and much more in Atom.
 > Simply awesome project management in Atom.
 
 ![](https://raw.githubusercontent.com/mehcode/atom-project-plus/master/project-plus.gif)
-
-#### [Code Peek](https://atom.io/packages/code-peek)
-> Quickly peek and edit functions in separate files from the context of your current editor.
-
-![Code Peek Demo](https://github.com/DFreds/code-peek-atom/blob/master/code-peek.gif?raw=true)
 
 #### [Ruby Test Switcher](https://atom.io/packages/ruby-test-switcher)
 > Switch between Ruby source code and test files with a keystroke. It supports RSpec, minitest and test-unit, both in Rails and non-Rails projects.
