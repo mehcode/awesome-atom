@@ -45,6 +45,7 @@ snippets for a specific language or file format.
  - [Dockerfile](https://atom.io/packages/language-docker)
  - [React](https://atom.io/packages/react)
  - [Stylus](https://atom.io/packages/stylus)
+ - [Tcl](https://atom.io/packages/language-tcl)
  - [TypeScript](https://atom.io/packages/atom-typescript)
 
 ## Lint
