@@ -163,7 +163,7 @@ JavaScript, and much more in Atom.
 #### [Pigments](https://atom.io/packages/pigments)
 > A package to display colors in project and files.
 
-![](https://github.com/abe33/atom-pigments/raw/master/resources/pigments.gif?raw=true)
+![](http://abe33.github.io/atom-pigments/pigments.gif?raw=true)
 
 #### [Project Plus](https://atom.io/packages/project-plus)
 > Simply awesome project management in Atom.
