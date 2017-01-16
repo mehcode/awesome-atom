@@ -197,3 +197,6 @@ JavaScript, and much more in Atom.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes.
+
+#### [Tree View Search Bar](https://atom.io/packages/tree-view-search-bar)
+> Quick look in tree view.
