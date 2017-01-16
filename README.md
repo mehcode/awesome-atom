@@ -18,6 +18,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Code Peek](#code-peek)
  - [Color Picker](#color-picker)
  - [Copy Paste](#copy-paste)
+ - [CSS Declaration Sorter](#css-declaration-sorter)
  - [Duplicate Selection](#duplicate-selection)
  - [Editor Config](#editor-config)
  - [Emmet](#emmet)
@@ -124,6 +125,11 @@ JavaScript, and much more in Atom.
 
 #### [Copy Paste](https://atom.io/packages/copy-paste)
 > Types in your code for your from the clipboard/buffer. Simply copy the code and hit the shortcut to watch your code being typed. Copy paste is ideal for screencasts and online courses.
+
+#### [CSS Declaration Sorter](https://atom.io/packages/css-declaration-sorter)
+> Sorts your CSS, Less or Sass declarations in Atom, never gets tired. You can choose from various ready-made orders to keep your CSS tidy.
+
+![CSS Declaration Sorter Demo](https://github.com/Siilwyn/css-declaration-sorter-atom/raw/master/show-off.gif)
 
 #### [Duplicate Selection](https://atom.io/packages/duplicate-line-or-selection)
 > Duplicates the selection if there is one, otherwise, duplicates the line.
