@@ -24,6 +24,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Emmet](#emmet)
  - [File Icons](#file-icons)
  - [Fonts](#fonts)
+ - [Git Time Machine](#git-time-machine)
  - [html-to-css](#html-to-css)
  - [iMDone](#imdone)
  - [Jumpy](#jumpy)
@@ -148,6 +149,11 @@ JavaScript, and much more in Atom.
 
 #### [Fonts](https://atom.io/packages/fonts)
 > Lots of monospace fonts.
+
+#### [Git Time Machine](https://atom.io/packages/git-time-machine)
+> It shows visual plot of commits to the current file over time and you can click on it on the timeplot or hover over the plot and see all of the commits for a time range.
+
+![git-time-machine](https://i.github-camo.com/62085307dccead1c2f5efdf4d7a40f9cdb777b93/68747470733a2f2f7261772e67697468756275736572636f6e74656e742e636f6d2f6c6974746c656265652f6769742d74696d652d6d616368696e652f6d61737465722f7265736f75726365732f74696d656d616368696e652e676966)
 
 #### [html-to-css](https://atom.io/packages/html-to-css)
 > Generates CSS boilerplate based on the selected HTML. Supports CSS, SCSS, Sass, LESS, BEM, JSX.
