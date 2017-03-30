@@ -192,7 +192,7 @@ JavaScript, and much more in Atom.
 ![](https://camo.githubusercontent.com/59de82a667ea690b778abaa5ba8a407f8659ebb3/68747470733a2f2f662e636c6f75642e6769746875622e636f6d2f6173736574732f323938382f313739363839312f38356536396666322d366139332d313165332d383961632d3331393237663630343539322e676966)
 
 #### [Sorter](https://atom.io/packages/sorter)
-> Sorts Lines, JSON, CSS, HTML, CSV. Restores semicolons, respects indentation. Supports natural sort.
+> Sorts Lines, JSON, CSS, HTML, CSV. Restores semicolons. Respects indentation. Supports natural sort.
 
 #### [Sync Settings](https://atom.io/packages/sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
