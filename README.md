@@ -86,7 +86,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 
 ## Extensions
 
-####[Nuclide](https://nuclide.io/)
+#### [Nuclide](https://nuclide.io/)
 An open IDE for web and native mobile development, built on top of Atom maintained by [Facebook](https://github.com/facebook/nuclide).
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
