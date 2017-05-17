@@ -93,6 +93,9 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 
 ![](https://nuclide.io/static/images/docs/promo-hack.png)
 
+#### [Gruvbox Syntax](https://github.com/Briles/gruvbox-atom)
+![](https://camo.githubusercontent.com/29712f507bfe539283aeb3e650065e08a8c132eb/687474703a2f2f692e696d6775722e636f6d2f6861426b5362332e706e67)
+
 ## Uncategorized
 
 #### [Advanced Open File](https://atom.io/packages/advanced-open-file)
