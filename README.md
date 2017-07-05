@@ -14,6 +14,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Advanced Open File](#advanced-open-file)
  - [Atom Reverser](#atom-reverser)
  - [Atom Terminal](#atom-terminal)
+ - [Autocomplete module import](#autocomplete-module-import)
  - [Beautify](#beautify)
  - [Code Peek](#code-peek)
  - [Color Picker](#color-picker)
@@ -109,6 +110,11 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 > Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
 
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
+
+#### [Autocomplete module import](https://atom.io/packages/atom-autocomplete-module-import)
+> Search & install npm packages from import/require statements by [Algolia](https://www.algolia.com/)
+
+![](https://camo.githubusercontent.com/53350e9c6d303f60101e1644605fe62f529e45f2/687474703a2f2f672e7265636f726469742e636f2f643576695542385859372e676966)
 
 #### [Beautify](https://atom.io/packages/atom-beautify)
 > [Beautify](https://github.com/beautify-web/js-beautify)
