@@ -111,7 +111,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
 
-#### [Autocomplete module import](https://atom.io/packages/atom-autocomplete-module-import)
+#### [Autocomplete module import](https://atom.io/packages/autocomplete-module-import)
 > Search & install npm packages from import/require statements by [Algolia](https://www.algolia.com/)
 
 ![](https://camo.githubusercontent.com/53350e9c6d303f60101e1644605fe62f529e45f2/687474703a2f2f672e7265636f726469742e636f2f643576695542385859372e676966)
