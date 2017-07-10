@@ -39,6 +39,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Sync Settings](#sync-settings)
  - [Terminal-Plus](#terminal-plus)
  - [TernJS](#ternjs)
+ - [Test Navigator](#test-navigator)
  - [Toggle Quotes](#toggle-quotes)
 
 ## Syntax
@@ -216,6 +217,11 @@ JavaScript, and much more in Atom.
 
 #### [TernJS](https://atom.io/packages/atom-ternjs)
 > Javascript code intelligence for atom with tern.js and autocomplete-plus.
+
+### [Test Navigator](https://atom.io/packages/test-navigator)
+> Quickly navigate between test and implementation files.
+
+![Test Navigator Demo](https://github.com/DFreds/test-navigator-atom/blob/master/test-navigator.gif?raw=true)
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes.
