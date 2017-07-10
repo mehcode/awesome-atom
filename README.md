@@ -33,7 +33,6 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
  - [Minimap](#minimap)
  - [Pigments](#pigments)
  - [Project Plus](#project-plus)
- - [Ruby Test Switcher](#ruby-test-switcher)
  - [Sort lines](#sort-lines)
  - [Sorter](#sorter)
  - [Sync Settings](#sync-settings)
@@ -195,9 +194,6 @@ JavaScript, and much more in Atom.
 > Simply awesome project management in Atom.
 
 ![](https://raw.githubusercontent.com/mehcode/atom-project-plus/master/project-plus.gif)
-
-#### [Ruby Test Switcher](https://atom.io/packages/ruby-test-switcher)
-> Switch between Ruby source code and test files with a keystroke. It supports RSpec, minitest and test-unit, both in Rails and non-Rails projects.
 
 #### [Sort Lines](https://atom.io/packages/sort-lines)
 > Sorts your lines. Never gets tired.
