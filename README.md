@@ -47,9 +47,12 @@ Language packages extend the editor with syntax highlighting and/or
 snippets for a specific language or file format.
 
  - [Angular](https://atom.io/packages/angularjs)
+ - [Vue.js](https://atom.io/packages/language-vue)
  - [Dockerfile](https://atom.io/packages/language-docker)
+ - [Markdown](https://atom.io/packages/language-markdown)
  - [React](https://atom.io/packages/react)
  - [Stylus](https://atom.io/packages/stylus)
+ - [Pug](https://atom.io/packages/language-pug)
  - [Tcl](https://atom.io/packages/language-tcl)
  - [TypeScript](https://atom.io/packages/atom-typescript)
 
