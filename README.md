@@ -37,7 +37,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Sort lines](#sort-lines)
   - [Sorter](#sorter)
   - [Sync Settings](#sync-settings)
-  - [Terminal-Plus](#terminal-plus)
+  - [PlatformIO IDE Terminal](#platformio-ide-terminal)
   - [TernJS](#ternjs)
   - [Test Navigator](#test-navigator)
   - [Toggle Quotes](#toggle-quotes)
@@ -210,8 +210,9 @@ JavaScript, and much more in Atom.
 #### [Sync Settings](https://atom.io/packages/sync-settings)
 > Synchronize package settings, keymap and installed packages across Atom instances.
 
-#### [Terminal-Plus](https://atom.io/packages/terminal-plus)
-> The terminal inside the editor complete with themes and more.
+#### [PlatformIO IDE Terminal](https://atom.io/packages/platformio-ide-terminal)
+> A terminal package for Atom, complete with themes, API and more for PlatformIO IDE.
+> This is a maintained (as of 2017-07-13) fork of terminal-plus.  
 
 ![](https://raw.githubusercontent.com/jeremyramin/terminal-plus/master/resources/demo.gif)
 
