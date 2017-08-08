@@ -195,7 +195,7 @@ JavaScript, and much more in Atom.
 
 ![](https://raw.github.com/smashwilson/merge-conflicts/master/docs/conflict-resolution.gif)
 
-#### [Minimap](https://atom.io/packages/minimap-plus)
+#### [Minimap](https://atom.io/packages/minimap)
 > A preview of the full source code.
 
 #### [Pigments](https://atom.io/packages/pigments)
