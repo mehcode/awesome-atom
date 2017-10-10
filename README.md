@@ -27,6 +27,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Editor Config](#editor-config)
   - [Emmet](#emmet)
   - [File Icons](#file-icons)
+  - [Finance](#finance)
   - [Fonts](#fonts)
   - [Git Time Machine](#git-time-machine)
   - [html-to-css](#html-to-css)
@@ -166,6 +167,11 @@ JavaScript, and much more in Atom.
 
 #### [File Icons](https://atom.io/packages/file-icons)
 > Adds file specific icons to atom for improved visual grepping. Works with Tree View and Fuzzy Finder and Tabs.
+
+#### [Finance](https://atom.io/packages/finance)
+> A plugin for checking your stock in Atom editor. The stock prices are fetched from Yahoo Finance.
+
+![finance](https://i.github-camo.com/d90523af60034d6c5e638254841b771e28a58fd4/68747470733a2f2f7261772e6769746875622e636f6d2f376b6670756e2f61746f6d2d66696e616e63652f6d61737465722f73637265656e73686f742e676966)
 
 #### [Fonts](https://atom.io/packages/fonts)
 > Lots of monospace fonts.
