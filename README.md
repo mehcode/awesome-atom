@@ -42,6 +42,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [PlatformIO IDE Terminal](#platformio-ide-terminal)
   - [TernJS](#ternjs)
   - [Test Navigator](#test-navigator)
+  - [Themer](#themer)
   - [Toggle Quotes](#toggle-quotes)
 
 ## Syntax
@@ -232,6 +233,9 @@ JavaScript, and much more in Atom.
 > Quickly navigate between test and implementation files.
 
 ![Test Navigator Demo](https://github.com/DFreds/test-navigator-atom/blob/master/test-navigator.gif?raw=true)
+
+#### [Themer](https://themer.mjswensen.com)
+> Generate Atom syntax/UI theme packages (and matching themes for your other tools) from your favorite colors.
 
 #### [Toggle Quotes](https://atom.io/packages/toggle-quotes)
 > Quickly toggle between single and double quotes.
