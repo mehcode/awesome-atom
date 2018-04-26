@@ -107,8 +107,6 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 #### [CodeSideStory](https://atom.io/packages/codesidestory-atom)
 > An Atom/Slack integration to start conversations about code right from the editor. Record screens and archive it right next to the line number to provide more context to your code.
 
-![](https://storage.googleapis.com/codesidestory/static/media/atom_ss.c29b4b0b.png)
-
 ## Uncategorized
 
 #### [Advanced Open File](https://atom.io/packages/advanced-open-file)
@@ -119,7 +117,7 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 #### [Atom Reverser](https://atom.io/packages/atom-reverser)
 > Reverses your current selections; e.g. `false` to `true`
 
-![Atom Reverser in action](https://i.imgur.com/YawGVsN.gif)
+![Atom Reverser in action](https://imgur.com/TrhwQz9.gif)
 
 #### [Atom Terminal](https://atom.io/packages/atom-terminal)
 > Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
