@@ -17,6 +17,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Advanced Open File](#advanced-open-file)
   - [Atom Reverser](#atom-reverser)
   - [Atom Terminal](#atom-terminal)
+  - [Atom Yarn](#atom-yarn)
   - [Autocomplete module import](#autocomplete-module-import)
   - [Beautify](#beautify)
   - [Code Peek](#code-peek)
@@ -124,6 +125,11 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 > Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
 
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
+
+### [Atom Yarn](https://atom.io/packages/atom-yarn)
+> A handy little package that lets you do things with Yarn without leaving Atom.
+
+![](https://raw.githubusercontent.com/cbovis/atom-yarn/master/docs/img/demo.gif)
 
 #### [Autocomplete module import](https://atom.io/packages/autocomplete-module-import)
 > Search & install npm packages from import/require statements by [Algolia](https://www.algolia.com/)
