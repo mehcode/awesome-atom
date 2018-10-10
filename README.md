@@ -19,6 +19,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Atom Terminal](#atom-terminal)
   - [Autocomplete module import](#autocomplete-module-import)
   - [Beautify](#beautify)
+  - [Cacher](#cacher)
   - [Code Peek](#code-peek)
   - [Color Picker](#color-picker)
   - [Copy Paste](#copy-paste)
@@ -135,6 +136,11 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 HTML (including [Handlebars](http://handlebarsjs.com/)),
 CSS (including [Sass](http://sass-lang.com/) and [LESS](http://lesscss.org/)),
 JavaScript, and much more in Atom.
+
+#### [Cacher](https://atom.io/packages/cacher)
+> Gives [Cacher](https://www.cacher.io/) users the ability to compose and insert snippets from their cloud-based, team-enabled libraries.
+
+![Cacher Demo](https://cdn.cacher.io/app-assets/atom-demo.gif)
 
 #### [Code Peek](https://atom.io/packages/code-peek)
 > Quickly peek and edit functions in separate files from the context of your current editor.
