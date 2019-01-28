@@ -181,6 +181,11 @@ JavaScript, and much more in Atom.
 
 ![html-to-css](https://camo.githubusercontent.com/b164c4b7b244006a7bcf7442d8c4b0812e4edcd0/687474703a2f2f64726163756c2e6b696c6c2e706c2f2537456172642f68746d6c746f6373732e676966)
 
+#### [IDE-Mocha](https://atom.io/packages/ide-mocha)
+> Uses the [Atom-IDE-UI](https://ide.atom.io) components to display Mocha test run results, logs and other information. Integrates the Console, Diagnostics, Busy Signal and Atom Notifications with Mocha.
+
+![IDE-Mocha demo](https://user-images.githubusercontent.com/3058150/48307632-32ab5100-e551-11e8-90d8-8dc18891d46c.gif)
+
 #### [iMDone](https://atom.io/packages/imdone-atom)
 > A task-board for TODOs, FIXMEs, HACKs, etc in your code.
 
