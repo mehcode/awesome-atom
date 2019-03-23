@@ -17,6 +17,7 @@ A curated list of delightful Atom packages and resources. For more awesomeness, 
   - [Advanced Open File](#advanced-open-file)
   - [Atom Reverser](#atom-reverser)
   - [Atom Terminal](#atom-terminal)
+  - [Atom Yarn](#atom-yarn)
   - [Autocomplete module import](#autocomplete-module-import)
   - [Beautify](#beautify)
   - [Code Peek](#code-peek)
@@ -106,8 +107,6 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 #### [CodeSideStory](https://atom.io/packages/codesidestory-atom)
 > An Atom/Slack integration to start conversations about code right from the editor. Record screens and archive it right next to the line number to provide more context to your code.
 
-![](https://storage.googleapis.com/codesidestory/static/media/atom_ss.c29b4b0b.png)
-
 ## Uncategorized
 
 #### [Advanced Open File](https://atom.io/packages/advanced-open-file)
@@ -118,12 +117,17 @@ To enable building, you'll need the general [build](https://atom.io/packages/bui
 #### [Atom Reverser](https://atom.io/packages/atom-reverser)
 > Reverses your current selections; e.g. `false` to `true`
 
-![Atom Reverser in action](https://i.imgur.com/YawGVsN.gif)
+![Atom Reverser in action](https://imgur.com/TrhwQz9.gif)
 
 #### [Atom Terminal](https://atom.io/packages/atom-terminal)
 > Launch terminal app on current file's directory with "Ctrl-Shift-T" in Atom.
 
 ![](https://raw.githubusercontent.com/karan/atom-terminal/master/terminal.gif)
+
+### [Atom Yarn](https://atom.io/packages/atom-yarn)
+> A handy little package that lets you do things with Yarn without leaving Atom.
+
+![](https://raw.githubusercontent.com/cbovis/atom-yarn/master/docs/img/demo.gif)
 
 #### [Autocomplete module import](https://atom.io/packages/autocomplete-module-import)
 > Search & install npm packages from import/require statements by [Algolia](https://www.algolia.com/)
